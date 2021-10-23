@@ -1,0 +1,15 @@
+{
+    "name": "russel/wp-tms",
+    "autoload": {
+        "psr-4": {
+            "Russel\\WpTms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Russel Hussain",
+            "email": "md.russel.hussain@gmail.com"
+        }
+    ],
+    "require": {}
+}

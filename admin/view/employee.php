@@ -1,0 +1,1 @@
+<div id="wptms-app"></div>
