@@ -1,1 +1,1 @@
-# wp-tms
+# wp-task-management
